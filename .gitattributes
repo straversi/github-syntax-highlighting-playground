@@ -2,4 +2,3 @@
 *.js linguist-language=Scala
 *.css linguist-language=Brainfuck
 Makefile linguist-language=Erlang
-*.java linguist-language=Prolog
