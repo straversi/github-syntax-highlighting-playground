@@ -1,4 +1,4 @@
 *.html linguist-language=Java
 *.js linguist-language=Scala
 *.css linguist-language=Brainfuck
-
+Makefile linguist-language=Erlang
